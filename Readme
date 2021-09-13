@@ -1,1 +1,5 @@
 This is my Python project
+Quellen: 
+https://pypi.org/project/textblob-de/
+https://towardsdatascience.com/a-beginners-guide-to-word-embedding-with-gensim-word2vec-model-5970fa56cc92
+Project with Embedding models
